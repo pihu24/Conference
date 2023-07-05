@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "CONFERENCES AS SOLUTION",
+    "price": "1",
+    "detail": "Communities like us can play an essential role   by offering equal opportunities to all.",
+    "image": "./r1.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "APPLY TO SPEAK ",
+    "price": "2",
+    "detail": "As we continue to grow our lineup of product speakers, we want to open the stage and give our community a chance to apply for a speaking slot.",
+    "image": "./r2.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "REASONS TO ATTEND",
+    "price": "3",
+    "detail": "Attending conferences with others can offer a multitude of benefits that can enhance your experience and professional growth.",
+    "image": "./r3.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "THE EVOLUTION",
+    "price": "4",
+    "detail": "We’re back for our next instalment of your favourite product conference, but this year we’re doing it a little differently... check out our plans for this year below",
+    "image": "./r4.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "IMPORTANCE OF INCLUSION",
+    "price": "5",
+    "detail": "We chatted to leading women in product about the importance of diversity and inclusion in our product teams.",
+    "image": "./r5.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "FROM THE BLOG",
+    "price": "6",
+    "detail": "The latest thinking, ideas and opinions on digital product from the  team and community.",
+    "image": "./r6.jpg"
   }
 ]

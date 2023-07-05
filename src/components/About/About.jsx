@@ -15,11 +15,11 @@ const About=()=>{
         </div>
         <div className="right flexColCenter">
            <div className="about-title paddings">
-            <span>About the conference:</span>
+            <span className="orangeText">About the conference:</span>
             <div className="orange-about" />
-            <h1>INSIDER STORIES <br />ACTIONABLE INSIGHTS 
+            <h1 className="primaryText">INSIDER STORIES <br />ACTIONABLE INSIGHTS 
             <br />FROM PRODUCT PEOPLE</h1>
-            <p className="about-text">
+            <p className="about-text secondaryText">
             We bring together a collection of the brightest minds  to share their  experiences
             <br /> designing,building and managing truly inclusive digital products and experiences
             <br /> With 20+ amazing speakers to be announced, you can be sure that there will 

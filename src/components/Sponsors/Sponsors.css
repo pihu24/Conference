@@ -1,0 +1,14 @@
+.s-wrapper{
+    background: var(--black);
+    padding-top:2rem;
+    padding-bottom: 2rem;
+}
+
+.s-cont{
+    justify-content: space-around;
+    gap:1rem;
+}
+
+.s-cont>img{
+    width: 9rem;
+}

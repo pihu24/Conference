@@ -1,5 +1,5 @@
 .about-wrapper{
-    background-color: #F5EFE7;
+    background-color: #F5F5F5;
     z-index:-1;
 }
 
@@ -25,7 +25,7 @@
     border-radius: 999px;
     position: absolute;
     right: 29%;
-    top:64%;
+    top: 40%;
     z-index: -1;
 
 }

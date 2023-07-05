@@ -3,7 +3,7 @@ import './Hero.css'
 const Hero=()=>{
     return (
         <section className="hero-wrapper">
-            <div className="paddings innerWidth  flexCenter hero-cont0">
+            <div className="paddings innerWidth  flexCenter hero-cont">
 
                 <div className="flexColStart hero-left paddings">
                     
