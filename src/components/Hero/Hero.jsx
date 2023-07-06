@@ -20,14 +20,14 @@ const Hero=()=>{
                             <span className="material-symbols-outlined">
                             calendar_today
                             </span>
-                            <span className="date-text">7th July 2023</span>
+                            <span className="date-t">7th July 2023</span>
                             </div>
                         
                             <div className="date-format">
                             <span className="material-symbols-outlined">
                             map
                             </span>
-                            <span className="date-text">NIT Jalandhar</span>
+                            <span className="date-t">NIT Jalandhar</span>
 
                             </div>
                     
