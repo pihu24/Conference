@@ -1,0 +1,10 @@
+.foot-wrapper{
+    background-color: black;
+}
+
+.f-head{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

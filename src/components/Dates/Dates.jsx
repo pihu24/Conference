@@ -15,8 +15,8 @@ const Dates=()=>{
         <thead>
           <tr>
             <th>S.No</th>
-            <th>Date</th>
-            <th>Details</th>
+            <th>DATE</th>
+            <th>DETAILS</th>
           </tr>
         </thead>
         <tbody>
